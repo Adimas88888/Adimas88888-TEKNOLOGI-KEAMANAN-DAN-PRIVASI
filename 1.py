@@ -18,7 +18,7 @@ def decrypt(ciphertext, key):
             plaintext += char
     return plaintext
 
-plaintext = "104"
+plaintext = "122"
 key = 4
 ciphertext = encrypt(plaintext, key)
 print("Ciphertext:", ciphertext)
