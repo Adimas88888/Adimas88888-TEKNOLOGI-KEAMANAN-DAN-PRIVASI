@@ -16,7 +16,7 @@ def decrypt(ciphertext, key):
             pointer += key
     return ''.join(plain_text)
 
-plaintext = "azis bisma"
+plaintext = "adi mas s"
 key = 10
 ciphertext = encrypt(plaintext, key)
 print("Ciphertext:", ciphertext)
