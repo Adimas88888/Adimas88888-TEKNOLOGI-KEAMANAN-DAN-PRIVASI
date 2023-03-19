@@ -1,1 +1,3 @@
-# Adimas88888-TEKNOLOGI-KEAMANAN-DAN-PRIVASI
+Nama Adi Mas Setiawan
+Nim L200200122
+Kls B
